@@ -1,4 +1,4 @@
-# QuANTUM - Qupath Analysis of Nuclei from Tumor to Uniform Molecular tests ![DALL·E 2023-11-21 13 50 48 - Create a minimalistic logo with a more defined and clear representation of a DNA double helix forming the letter 'Q'  The helix should be depicted in ](https://github.com/Gizmopath/QuANTUM/assets/119873860/afc1bd45-90e2-4d84-887f-285a92b82e4a)
+# QuANTUM - Qupath Analysis of Nuclei from Tumor to Uniform Molecular tests  <img src="https://github.com/Gizmopath/QuANTUM/assets/119873860/afc1bd45-90e2-4d84-887f-285a92b82e4a" alt="QuANTUM Logo" width="100">
 
 ###Computational Pipeline for Tumor Cellularity Detection in Pulmonary Pathology
 
